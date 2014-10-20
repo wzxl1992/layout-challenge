@@ -59,6 +59,7 @@ header {
 	background-color: #FA5A0F;
 	border-bottom: 5px #EA4A00;
 	color: #FFFFFF;
+	position: relative;
 }
 
 header p {
