@@ -5,9 +5,6 @@ body {
 	font-family: 'Lato','Helvetic Neue', Helvetica, sans-serif;
 	font-size: 16px;
 	font-weight: 300;
-	/*background-image: url(../img/background.jpg);*/
-	/*background-size: cover;*/
-	/*background-attachment: fixed;*/
 }
 
 body a:link,
@@ -30,6 +27,7 @@ h1 {
 	font-size: 300%;
 	margin: 0px;
 }
+
 h2, h3 {
 	color: #505050;
 }
@@ -45,12 +43,7 @@ h3 {
 }
 
 .container-fluid {
-	/*margin-left: 30%;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-right: 20px;*/
 	background-image: url(../img/ricepaper_v3.png);
-
 	opacity: 0.9;
 }
 
@@ -140,7 +133,6 @@ footer {
 		top: 10px;
 		right: 10px;
 	}
-
 }
 
 nav ul {
